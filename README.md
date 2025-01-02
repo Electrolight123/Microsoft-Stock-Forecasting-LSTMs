@@ -60,28 +60,5 @@ The dataset (`MSFT.csv`) contains historical data for Microsoft stock prices, in
   - Train the LSTM model.
   - Visualize the predictions.
 
----
 
-**## 📈 Results**
 
-The model predicts stock prices with reasonable accuracy. Below is an example of actual vs. predicted stock prices:
-![download](https://github.com/user-attachments/assets/759c3ae6-e1d6-43ea-b968-4b298bf23d62)
-
----
-
-**##🤝 Contribution**
-
-Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve the project.
-
----
-
-**##📜 License**
-
-This project is licensed under the MIT License. Feel free to use it for personal or educational purposes.
-
----
-
-**##🙌 Acknowledgments**
-
-Thanks to the TensorFlow and Scikit-learn communities for their fantastic libraries.
-Inspired by the advancements in time-series forecasting using deep learning.
