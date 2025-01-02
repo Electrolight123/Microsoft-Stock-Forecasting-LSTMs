@@ -45,13 +45,13 @@ The dataset (`MSFT.csv`) contains historical data for Microsoft stock prices, in
 ## 🧑‍💻 How to Run the Project  
 
 1. Clone this repository:  
-   ```bash
+   
    git clone https://github.com/username/Microsoft-Stock-Forecasting-LSTMs.git
    cd Microsoft-Stock-Forecasting-LSTMs
 
 2. Open the Jupyter Notebook:
 
-  ```bash
+  
   jupyter notebook "Forecasting Microsoft Stock Prices Using LSTMs.ipynb"
   Follow the steps in the notebook to:
 
