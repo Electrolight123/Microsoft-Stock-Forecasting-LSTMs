@@ -28,7 +28,6 @@ This project focuses on forecasting Microsoft stock prices using Long Short-Term
 ### Install the following:
 - Python 3.8+
 - Required libraries:
-  ```bash
   pip install numpy pandas matplotlib tensorflow scikit-learn
 
 ## 📊 Dataset  
@@ -68,19 +67,19 @@ The model predicts stock prices with reasonable accuracy. Below is an example of
 
 ---
 
-**##🤝 Contribution**
+**## 🤝 Contribution**
 
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve the project.
 
 ---
 
-**##📜 License**
+**## 📜 License**
 
 This project is licensed under the MIT License. Feel free to use it for personal or educational purposes.
 
 ---
 
-**##🙌 Acknowledgments**
+**## 🙌 Acknowledgments**
 
 Thanks to the TensorFlow and Scikit-learn communities for their fantastic libraries.
 Inspired by the advancements in time-series forecasting using deep learning.
